@@ -34,14 +34,10 @@ Ensure these data sources are updated regularly to maintain the accuracy and rel
 
 #### Overview Page
 
-![Overview Page](https://github.com/jahnvisahni31/Airport_analysis/blob/main/images/overview.png)
+![Overview Page](assets/overview.png)
 
-#### Delays and Time Analysis Page
+![Delays and Time Analysis Page](assets/Delays%20and%20Time%20Analysis%20Page.png)
 
-![Delays and Time Analysis Page](https://github.com/jahnvisahni31/Airport_analysis/blob/main/images/Delays%20and%20Time%20Analysis%20Page.png)
-
-#### Detailed Flight Analysis Page
-
-![Detailed Flight Analysis Page](https://github.com/jahnvisahni31/Airport_analysis/blob/main/images/Detailed%20Flight%20Analysis.png)
+![Something on a new dataset PS. in the works](assets/new_dash.png)
 
 Thank you for using the Airport Analysis Dashboard. We hope this tool helps you enhance airport operations and improve the overall passenger experience.
