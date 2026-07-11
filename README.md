@@ -32,8 +32,6 @@ Ensure these data sources are updated regularly to maintain the accuracy and rel
 
 ### Photos
 
-#### Overview Page
-
 ![Overview Page](assets/overview.png)
 
 ![Delays and Time Analysis Page](assets/Delays%20and%20Time%20Analysis%20Page.png)
